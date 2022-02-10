@@ -40,7 +40,7 @@
     "jest-junit": "^1.5.1",
     "json-loader": "0.5.4",
     "json-server": "^0.12.1",
-    "node-sass": "^4.9.0",
+    "node-sass": "^7.0.0",
     "npm-run-all": "^4.1.2",
     "react-csv": "^1.0.12",
     "react-recaptcha": "^2.3.10",
